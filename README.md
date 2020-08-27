@@ -34,7 +34,7 @@ Farei as correções de forma *online*, acessando diretamente o documento no Goo
 ## Modelo do Projeto
 + [Modelo do Projeto - Word (.docx)](https://github.com/EdsonMSouza/projeto_5_noite/blob/master/modelo_de_projeto_computacao_aplicada.docx)
 
-## Calendário de Entregas de Tarefas
+## Calendário de entrega de tarefas
 + **03/09** - **Introdução**
 	+ Título do projeto
 	+ Motivações e objetivos
@@ -50,7 +50,7 @@ Farei as correções de forma *online*, acessando diretamente o documento no Goo
 + **24/09** - **Modelagem UML**
 	+ Apresentação dos diagramas de classe e casos de uso
 
-**19/11/2020** - **ENTREGA FINAL**
+## **19/11/2020** - **ENTREGA FINAL**
 + Documentação completa com apresentação da aplicação funcionando
 + Todos os códigos fonte deverão ser disponibilizados no Github em um repositório privado
 + ***Não haverá prorrogação do prazo de entrega***

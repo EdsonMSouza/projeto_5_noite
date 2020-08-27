@@ -19,7 +19,7 @@ Para o desenvolvimento do projeto é proposta a criação de um **Sistema de Cha
 
 Os conceitos desenvolvidos nas disciplinas devem ser empregados em sua completude, ou seja, devem estar presentes em todas as etapas do projeto. O projeto não restringe a utilização de outras tecnologias, mesmo que não tenham sido ainda abordadas no curso. Nete sentido, qualquer tecnologia pode ser utilizada para incrementar o projeto.
 
-**Atenção:** - Os códigos desenvolvidos, bem como o processos para instalação e execução, incluindo dependências e configurações, deverão ser disponibilizados em um repositório privado no Github com detalhamento técnico e o endereço informado no ato da entrega. 
+**Atenção:** Os códigos desenvolvidos, bem como o processos para instalação e execução, incluindo dependências e configurações, deverão ser disponibilizados em um repositório privado no Github com detalhamento técnico e o endereço informado no ato da entrega. 
 
 O documento final deverá estar de acordo com as **Normas ABNT** vigentes, as quais podem ser obtidas na Biblioteca Virtual da Uninove. Como todo projeto, vocês trabalharão em grupo e terão uma série de atividades a serem cumpridas pelos membros do grupo, em datas específicas que serão fornecidas pelo professor.
 
@@ -54,3 +54,5 @@ Farei as correções de forma *online*, acessando diretamente o documento no Goo
 + Documentação completa com apresentação da aplicação funcionando
 + Todos os códigos fonte deverão ser disponibilizados no Github em um repositório privado
 + <span style="color:red"> *Não haverá prorrogação do prazo de entrega*</span>
+<font color='red'>test blue color font</font>
+

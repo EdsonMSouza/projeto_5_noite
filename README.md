@@ -23,7 +23,7 @@ Os conceitos desenvolvidos nas disciplinas devem ser empregados em sua completud
 
 O documento final deverá estar de acordo com as **Normas ABNT** vigentes, as quais podem ser obtidas na Biblioteca Virtual da Uninove. Como todo projeto, vocês trabalharão em grupo e terão uma série de atividades a serem cumpridas pelos membros do grupo, em datas específicas que serão fornecidas pelo professor.
 
-O grupo deverá criar um ambiente no **Google Drive** e compartilhar o documento [Modelo de Projeto](https://github.com/EdsonMSouza/projeto_4_noite/blob/master/modelo_para_o_projeto.docx) comigo para acompanhamento, realizando as implementações solicitadas para as datas de entrega que estão descritas no **Calendário de Entregas** abaixo.
+O grupo deverá criar um ambiente no **Google Drive** e compartilhar o documento [Modelo de Projeto](https://github.com/EdsonMSouza/projeto_5_noite/blob/master/modelo_de_projeto_computacao_aplicada.docx) comigo para acompanhamento, realizando as implementações solicitadas para as datas de entrega que estão descritas no **Calendário de Entregas** abaixo.
 
 Farei as correções de forma *online*, acessando diretamente o documento no Google Drive pelo link. Portanto, não enviem documentos do projeto por e-mail.
 
@@ -32,7 +32,7 @@ Farei as correções de forma *online*, acessando diretamente o documento no Goo
 + Trabalhos individuais não são recomendados devido a a complexidade e prazo para a entrega.
 
 ## Modelo do Projeto
-+ [Modelo do Projeto - Word (.docx)](https://github.com/EdsonMSouza/projeto_4_noite/blob/master/modelo_para_o_projeto.docx)
++ [Modelo do Projeto - Word (.docx)](https://github.com/EdsonMSouza/projeto_5_noite/blob/master/modelo_de_projeto_computacao_aplicada.docx)
 
 ## Calendário de Entregas de Tarefas
 + **03/09** - **Introdução**
@@ -42,17 +42,16 @@ Farei as correções de forma *online*, acessando diretamente o documento no Goo
 	+ Definição da equipe - responsabilidades de cada membro
 
 + **10/09** - **Descrição do aplicativo**
-	+ Descrição detalhada do aplicativo - o que ele irá fazer
+	+ Descrição detalhada do aplicativo
 
 + **17/09** - **Layout**
-	+ Apresentação das telas do aplicativo - no mínimo 5
+	+ Apresentação do layout e demais funcionalidades visuais
 
 + **24/09** - **Modelagem UML**
-	+ Apresentação dos diagrams de classe e casos de uso
+	+ Apresentação dos diagramas de classe e casos de uso
 
 **19/11/2020** - **ENTREGA FINAL**
 + Documentação completa com apresentação da aplicação funcionando
 + Todos os códigos fonte deverão ser disponibilizados no Github em um repositório privado
-+ <span style="color:red"> *Não haverá prorrogação do prazo de entrega*</span>
-<font color='red'>test blue color font</font>
++ ***Não haverá prorrogação do prazo de entrega***
 

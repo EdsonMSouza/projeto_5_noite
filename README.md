@@ -32,7 +32,7 @@ Farei as correções de forma *online*, acessando diretamente o documento no Goo
 + Trabalhos individuais não são recomendados devido a a complexidade e prazo para a entrega.
 
 ## Modelo do Projeto
-+ [Modelo do Projeto - Word (.docx)](https://github.com/EdsonMSouza/projeto_5_noite/blob/master/modelo_de_projeto_computacao_aplicada.docx)
++ [Modelo do Projeto - Word (.docx)](https://github.com/EdsonMSouza/projeto_5_noite/blob/master/modelo_de_projeto.docx)
 
 ## Calendário de entrega de tarefas
 + **03/09** - **Introdução**

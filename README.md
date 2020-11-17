@@ -54,4 +54,5 @@ Farei as correções de forma *online*, acessando diretamente o documento no Goo
 + Documentação completa com apresentação da aplicação funcionando
 + Todos os códigos fonte deverão ser disponibilizados no Github em um repositório privado
 + ***Não haverá prorrogação do prazo de entrega***
++ [Link para entrega do projeto](https://forms.gle/jX73unnw9gCL43eGA)
 
